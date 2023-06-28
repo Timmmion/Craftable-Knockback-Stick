@@ -1,0 +1,4 @@
+name: knockback-stick
+main: com.timmmion.Plugin
+version: 1.0-SNAPSHOT
+api-version: 1.15
